@@ -60,3 +60,6 @@ For the free version
  - hints can be bought in the free version only
    have some daily number of hints & puzzles to solve
    or have a limited quantity of hints per each puzzle
+
+
+ the license might need revision if the game is going to be live and paid!
