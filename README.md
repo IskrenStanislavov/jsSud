@@ -45,3 +45,18 @@ For the general idea:
  - login with facebook/gmail or something else.
  - django-social can be used for this purpose.
  - there is an already suitable library for the purpose: django-leaderboard
+
+ Paid version:
+  - buy more sudoku puzzles and hints
+  - leaderboard for the paid version only - to consider that
+  - probably no hints will be available in the leaderboard classification
+  - that is no hints in the paid version.
+ 
+ No ads in both versions
+
+For the free version
+ - tiny "Donate" button
+ - a link to the full version in the store
+ - hints can be bought in the free version only
+   have some daily number of hints & puzzles to solve
+   or have a limited quantity of hints per each puzzle
